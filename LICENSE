@@ -1,24 +1,4 @@
-# Out of order
-
-# What it is
-<details>
-
-It's just a out of order page I created in Nodejs.
-</details>
-
-# Can I use it for my own purposes
-<details>
-
-  Yeah, but follow the lisence and make sure to credit me.
-</details>
-
-# What is the licence
-
-The license is a MPL 2.0 license.
-
-# License
-<details>
-  Mozilla Public License Version 2.0
+Mozilla Public License Version 2.0
 ==================================
 
 1. Definitions
@@ -391,4 +371,3 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
   defined by the Mozilla Public License, v. 2.0.
-</details>
