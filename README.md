@@ -394,8 +394,9 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 </details>
 
 # Media
+
+[![Screenshot-363.png](https://i.postimg.cc/Kc9Vp0HG/Screenshot-363.png)](https://postimg.cc/c6nXrBW2)
+
 <details>
-    [![Screenshot-363.png](https://i.postimg.cc/Kc9Vp0HG/Screenshot-363.png)](https://postimg.cc/c6nXrBW2)
-    <p> </p>
     <p>Adding more soon once I add more to it</p>
 </details>
