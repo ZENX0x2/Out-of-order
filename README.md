@@ -2,7 +2,7 @@
 
 # What it is
 <section>
-  It's just a out of order page I created in Node.js.
+  <p>It's just a out of order page I created in Node.js.</p>
 </section>
 
 # Can I use it for my own purposes
