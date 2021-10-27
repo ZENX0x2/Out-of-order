@@ -1,18 +1,18 @@
 # Out of order
 
 # What it is
-<section>
+<details>
   <p>It's just a out of order page I created in Node.js.</p>
-</section>
+</details>
 
 # Can I use it for my own purposes
-<section>
+<details>
   Yeah, but follow the lisence and make sure to credit me.
-</section>
+</details>
 
 # What is the licence
 The license is a MPL 2.0 license.
 # License
-<section>
+<details>
   
-</section>
+</details>
